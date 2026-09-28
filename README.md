@@ -10,15 +10,20 @@ CuratorOS Launch is intentionally not another dashboard. It is a single static p
 
 - CuratorOS — https://curator.oceanliners.net/
 - Curator Intelligence — https://tools.oceanliners.net/
+- Curator Ops — https://ops.oceanlinercurator.com/
+- Error Bus — https://errors.oceanliners.net/
 - Content Opportunity Finder — https://content.oceanliners.net/
 - Site Health — https://site-health.oceanliners.net/
 - Curator Integrity — https://integrity.oceanliners.net/
 - Curator Speed — https://speed.oceanliners.net/
 - Search Intelligence — https://search-intelligence.oceanliners.net/
+- Analytics — https://analytics.oceanliners.net/
 - Link Map — https://link-map.oceanliners.net/
 - Curator Indexer — https://curator-indexer.oceanliners.net/
 - Page Studio — https://page-studio.oceanliners.net/
 - Ocean Liner Curator — https://www.oceanliners.net/
+
+Research Capture and Curator Verify are supporting backend/evidence services rather than standalone operator destinations, so they are intentionally not listed in Launch.
 
 ## Design
 
